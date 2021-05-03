@@ -2,6 +2,8 @@
 
 namespace Illuminate\Bus;
 
+
+
 use Carbon\CarbonImmutable;
 use Closure;
 use Illuminate\Contracts\Queue\Factory as QueueFactory;
